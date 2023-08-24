@@ -1,0 +1,8 @@
+C:\Users\tarik\source\repos\Ogrenci Listesi Olusturma Projesi\Ogrenci Listesi Olusturma Projesi\bin\Debug\Ogrenci Listesi Olusturma Projesi.exe.config
+C:\Users\tarik\source\repos\Ogrenci Listesi Olusturma Projesi\Ogrenci Listesi Olusturma Projesi\bin\Debug\Ogrenci Listesi Olusturma Projesi.exe
+C:\Users\tarik\source\repos\Ogrenci Listesi Olusturma Projesi\Ogrenci Listesi Olusturma Projesi\bin\Debug\Ogrenci Listesi Olusturma Projesi.pdb
+C:\Users\tarik\source\repos\Ogrenci Listesi Olusturma Projesi\Ogrenci Listesi Olusturma Projesi\obj\Debug\Ogrenci Listesi Olusturma Projesi.csproj.AssemblyReference.cache
+C:\Users\tarik\source\repos\Ogrenci Listesi Olusturma Projesi\Ogrenci Listesi Olusturma Projesi\obj\Debug\Ogrenci Listesi Olusturma Projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\tarik\source\repos\Ogrenci Listesi Olusturma Projesi\Ogrenci Listesi Olusturma Projesi\obj\Debug\Ogrenci Listesi Olusturma Projesi.csproj.CoreCompileInputs.cache
+C:\Users\tarik\source\repos\Ogrenci Listesi Olusturma Projesi\Ogrenci Listesi Olusturma Projesi\obj\Debug\Ogrenci Listesi Olusturma Projesi.exe
+C:\Users\tarik\source\repos\Ogrenci Listesi Olusturma Projesi\Ogrenci Listesi Olusturma Projesi\obj\Debug\Ogrenci Listesi Olusturma Projesi.pdb
